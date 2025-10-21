@@ -21,3 +21,5 @@ save_plot <- function(save_path, plot){
     ggsave(save_path, plot)
     save_path
 }
+
+x = 10

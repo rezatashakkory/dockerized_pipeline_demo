@@ -23,3 +23,4 @@ save_plot <- function(save_path, plot){
 }
 
 x = 10
+y = 5
